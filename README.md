@@ -1,6 +1,6 @@
 # A Reparameterized Discrete Diffusion Model for Text Generation
 
-This repository contains the official implementation of paper [A Reparameterized Discrete Diffusion Model for Text Generation]().
+This repository contains the official implementation of paper [A Reparameterized Discrete Diffusion Model for Text Generation](https://arxiv.org/abs/2302.05737).
 
 ## Dependencies
 
@@ -305,4 +305,10 @@ We also provide the checkpoints of our trained models.
 
 ## Citation
 ```bibtex
+@article{zheng2023rdm,
+  title={A Reparameterized Discrete Diffusion Model for Text Generation},
+  author={Zheng, Lin and Yuan, Jianbo and Yu, Lei and Kong, Lingpeng},
+  journal={arXiv preprint arXiv:2302.05737},
+  year={2023}
+}
 ```
