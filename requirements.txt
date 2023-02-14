@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+bert-score==0.3.12
+blobfile
+nltk==3.8.1
+numpy==1.21.0
+packaging
+psutil
+PyYAML
+torch==1.12.0+cu113
+torchaudio==0.12.0
+torchmetrics==0.6.0
+tqdm
+transformers==4.15.0
+Cython
+ninja
